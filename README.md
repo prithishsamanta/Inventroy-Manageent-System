@@ -1,0 +1,1 @@
+This is an inventory Management System project which helps keep track of the inventory of a grocery store. This project has been developed using OOPs concept and Exception Handling in Java, and Java Database Connectivity with Oracle SQL Database.
